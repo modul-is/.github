@@ -12,3 +12,6 @@
 - NetteFW (4)
 - Bootstrap (5.3)
 - GIT (internal Gitlab)
+  
+## Kontakt 📧
+- napiš nám na pavel.kravcik@modul-is.cz
